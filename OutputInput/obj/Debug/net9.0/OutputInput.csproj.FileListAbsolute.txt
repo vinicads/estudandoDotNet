@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\bin\Debug\net9.0\OutputInput.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\bin\Debug\net9.0\OutputInput.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\bin\Debug\net9.0\OutputInput.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\bin\Debug\net9.0\OutputInput.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\bin\Debug\net9.0\OutputInput.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\obj\Debug\net9.0\OutputInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\obj\Debug\net9.0\OutputInput.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\obj\Debug\net9.0\OutputInput.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\obj\Debug\net9.0\OutputInput.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\obj\Debug\net9.0\OutputInput.sourcelink.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\obj\Debug\net9.0\OutputInput.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\obj\Debug\net9.0\refint\OutputInput.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\obj\Debug\net9.0\OutputInput.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\obj\Debug\net9.0\OutputInput.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\OutputInput\obj\Debug\net9.0\ref\OutputInput.dll
