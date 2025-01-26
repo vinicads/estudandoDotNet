@@ -21,5 +21,8 @@ public class Pogram{
         }else{
             Console.WriteLine("Nao sou desenvolvedor.");
         };
+
+        var variable = "Agora e uma string";
+        Console.WriteLine(variable);
     }
 }
