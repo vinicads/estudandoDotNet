@@ -52,6 +52,7 @@ Certifique-se de ter instalado:
 - [x] Variáveis no .NET.
 - [x] Output e Input no .NET.
 - [x] Operadores Aritméticos no .NET.
+- [x] Estruturas Condicionais no .NET.
 
 *(Vou atualizando esta lista conforme avanço nos estudos.)*
 
