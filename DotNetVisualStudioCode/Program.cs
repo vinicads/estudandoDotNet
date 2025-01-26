@@ -2,6 +2,6 @@
 
 public class Program {
     public static void Main(){
-        Console.WriteLine("Ola, mundo!");
+        Console.WriteLine("Olá, Mundo!");
     }
 }

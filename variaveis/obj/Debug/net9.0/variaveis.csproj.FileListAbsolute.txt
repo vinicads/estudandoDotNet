@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\bin\Debug\net9.0\variaveis.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\bin\Debug\net9.0\variaveis.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\bin\Debug\net9.0\variaveis.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\bin\Debug\net9.0\variaveis.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\bin\Debug\net9.0\variaveis.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\obj\Debug\net9.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\obj\Debug\net9.0\variaveis.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\obj\Debug\net9.0\variaveis.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\obj\Debug\net9.0\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\obj\Debug\net9.0\variaveis.sourcelink.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\obj\Debug\net9.0\variaveis.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\obj\Debug\net9.0\refint\variaveis.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\obj\Debug\net9.0\variaveis.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\obj\Debug\net9.0\variaveis.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\variaveis\obj\Debug\net9.0\ref\variaveis.dll

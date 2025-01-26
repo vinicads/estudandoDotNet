@@ -49,6 +49,7 @@ Certifique-se de ter instalado:
 ## 📚 O que estou aprendendo aqui
 
 - [x] Estrutura de um projeto básico no .NET.
+- [x] Variáveis no .NET.
 
 *(Vou atualizando esta lista conforme avanço nos estudos.)*
 
