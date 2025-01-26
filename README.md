@@ -53,6 +53,9 @@ Certifique-se de ter instalado:
 - [x] Output e Input no .NET.
 - [x] Operadores Aritméticos no .NET.
 - [x] Estruturas Condicionais no .NET.
+- [x] Arrays no .NET.
+- [x] For e foreach no .NET.
+- [x] While e Do/While no .NET.
 
 *(Vou atualizando esta lista conforme avanço nos estudos.)*
 
