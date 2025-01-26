@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\bin\Debug\net9.0\Aritmeticos.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\bin\Debug\net9.0\Aritmeticos.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\bin\Debug\net9.0\Aritmeticos.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\bin\Debug\net9.0\Aritmeticos.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\bin\Debug\net9.0\Aritmeticos.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\obj\Debug\net9.0\Aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\obj\Debug\net9.0\Aritmeticos.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\obj\Debug\net9.0\Aritmeticos.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\obj\Debug\net9.0\Aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\obj\Debug\net9.0\Aritmeticos.sourcelink.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\obj\Debug\net9.0\Aritmeticos.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\obj\Debug\net9.0\refint\Aritmeticos.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\obj\Debug\net9.0\Aritmeticos.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\obj\Debug\net9.0\Aritmeticos.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Aritmeticos\obj\Debug\net9.0\ref\Aritmeticos.dll
