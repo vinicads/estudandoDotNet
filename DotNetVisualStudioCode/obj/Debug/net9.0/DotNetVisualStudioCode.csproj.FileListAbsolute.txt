@@ -1,0 +1,14 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\bin\Debug\net9.0\DotNetVisualStudioCode.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\bin\Debug\net9.0\DotNetVisualStudioCode.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\bin\Debug\net9.0\DotNetVisualStudioCode.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\bin\Debug\net9.0\DotNetVisualStudioCode.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\bin\Debug\net9.0\DotNetVisualStudioCode.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\obj\Debug\net9.0\DotNetVisualStudioCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\obj\Debug\net9.0\DotNetVisualStudioCode.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\obj\Debug\net9.0\DotNetVisualStudioCode.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\obj\Debug\net9.0\DotNetVisualStudioCode.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\obj\Debug\net9.0\DotNetVisualStudioCode.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\obj\Debug\net9.0\refint\DotNetVisualStudioCode.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\obj\Debug\net9.0\DotNetVisualStudioCode.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\obj\Debug\net9.0\DotNetVisualStudioCode.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\DotNetVisualStudioCode\obj\Debug\net9.0\ref\DotNetVisualStudioCode.dll
