@@ -17,20 +17,6 @@ Este repositório serve para compartilhar meu aprendizado e evolução no uso do
 - C# - Linguagem de programação.
 - Visual Studio/Visual Studio Code - Ambiente de desenvolvimento.
 
-## 📂 Estrutura do Projeto
-
-```plaintext
-📁 MeuProjetoDotNet/
-├── 📁 Controllers         # Controladores da aplicação
-├── 📁 Models              # Modelos e entidades
-├── 📁 Services            # Lógica de negócios e serviços
-├── 📁 Data                # Configuração do banco de dados
-├── 📄 Program.cs          # Arquivo principal da aplicação
-└── 📄 README.md           # Este arquivo
-```
-
-> A estrutura pode variar de acordo com os exemplos ou estudos que eu estiver explorando.
-
 ## 🚀 Como Executar o Projeto
 
 ### Pré-requisitos
@@ -45,7 +31,7 @@ Certifique-se de ter instalado:
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd estudandoDotNet
+   cd (nome da pasta que escolher)
    ```
 3. Restaure as dependências:
    ```bash
@@ -63,10 +49,6 @@ Certifique-se de ter instalado:
 ## 📚 O que estou aprendendo aqui
 
 - [x] Estrutura de um projeto básico no .NET.
-- [x] Criação de endpoints com controladores.
-- [ ] Configuração e integração de um banco de dados com Entity Framework.
-- [ ] Autenticação e autorização.
-- [ ] Deploy em servidores.
 
 *(Vou atualizando esta lista conforme avanço nos estudos.)*
 
@@ -84,5 +66,4 @@ Sinta-se à vontade para:
 
 ---
 
-**Autor:** Vinicius Augusto dos Santos  
-📅 Projeto iniciado em: Janeiro de 2025  
+**Autor:** Vinicius Augusto dos Santos
