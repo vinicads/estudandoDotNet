@@ -56,6 +56,7 @@ Certifique-se de ter instalado:
 - [x] Arrays no .NET.
 - [x] For e foreach no .NET.
 - [x] While e Do/While no .NET.
+- [x] Manipulacao de arquivos no .NET.
 
 *(Vou atualizando esta lista conforme avanço nos estudos.)*
 

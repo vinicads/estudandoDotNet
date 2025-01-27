@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\obj\Debug\net9.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\obj\Debug\net9.0\Arquivos.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\obj\Debug\net9.0\Arquivos.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\obj\Debug\net9.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\obj\Debug\net9.0\Arquivos.sourcelink.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\bin\Debug\net9.0\Arquivos.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\bin\Debug\net9.0\Arquivos.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\bin\Debug\net9.0\Arquivos.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\bin\Debug\net9.0\Arquivos.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\bin\Debug\net9.0\Arquivos.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\obj\Debug\net9.0\Arquivos.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\obj\Debug\net9.0\refint\Arquivos.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\obj\Debug\net9.0\Arquivos.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\obj\Debug\net9.0\Arquivos.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\.net\Arquivos\obj\Debug\net9.0\ref\Arquivos.dll
